@@ -78,6 +78,8 @@ td a[href*="hapus"] { background-color: #ffd6d6; color: #d00000; }
 </head>
 <body>
     <a href="logout.php">logout</a>
+    <br><br>
+    <a href="user/data_user.php"> DATA USER </a>
     <h1>DATA_SANTRII(PPRU)</h1>
 
     <a href="tambah.php">+ tambah data</a>
